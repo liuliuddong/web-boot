@@ -1,0 +1,39 @@
+.middle{
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    height: 560px;
+    background:transparent url("../img/bg.png") repeat-x center;
+    border: 1px solid #0aa1ed;
+}
+
+.login_bg{
+        width: 280px;
+        height: 296px;
+        float: right;
+        margin-right: 122px;
+        margin-top: 122px;
+        box-sizing: border-box;
+        padding: 5px;
+        background-color: rgba(0,0,0,0.3)
+}
+.mid_dl {
+    border-bottom: 1px solid #fff;
+}
+.mid_inp1{
+    height: 38px;
+    background:#fff url("../img/yhm.png") no-repeat;
+    background-position: 95%;
+    outline: 0;
+    border: 0;
+}
+.mid_inp2{
+    height: 38px;
+    background:#fff url("../img/mm.png") no-repeat;
+    background-position: 95%;
+    outline: 0;
+    border: 0;
+}
+.anniu_mm{
+    margin-top: 20px;
+}

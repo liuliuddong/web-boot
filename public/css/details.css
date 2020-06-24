@@ -1,0 +1,43 @@
+/* 面包屑 */
+.breadcrumb-item+.breadcrumb-item::before{
+    content: ">";
+}
+.div_img{
+   width: 15%;
+}
+.bg_color{
+    box-shadow: 2px -2px 5px 2px #e0e0e0;
+    background: linear-gradient(to bottom, #f0f0f0 0%, #e0e0e0 100%);;
+}
+.text_color{
+    color: #0aa1ed;
+}
+.btn_active{
+    border:1px solid #0aa1ed ; 
+}
+.btn_color:hover{
+    border:1px solid #0aa1ed ;
+    color: #0aa1ed;
+}
+.w_5{
+    width: 5%;
+}
+.w_5:focus{
+    outline: 0;
+}
+.my_btn{
+    background: linear-gradient(to bottom, #f0f0f0 0%, #e0e0e0 100%);;
+}
+.w_10{
+    height: 52px;
+    width: 10%;
+}
+.my_shoucang{
+    margin-bottom: 27px;
+}
+.my_shoucang2{
+    margin-top: -27px;
+}
+.li_border{
+    border-bottom: 3px solid #0aa1ed;
+}
